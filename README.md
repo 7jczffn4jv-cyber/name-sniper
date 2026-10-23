@@ -1,4 +1,4 @@
-# Discordusernamechecker
+# Discord user name checker and generator
 A high-speed, infinite Discord username generator and checker. Built for Linux and Windows shells with proxy rotation and instant webhook alerts.
 
 ✔️ **INSTALLATION LINUX/MAC:**
