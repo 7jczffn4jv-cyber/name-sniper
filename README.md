@@ -91,9 +91,15 @@ pause
 ✔️ **INSTALLATION TERMUX:**
 
 pkg install python
+
+
 pkg install git
+
+
 git clone https://github.com/yourusername/name-sniper.git
+
 cd name-sniper
+
 pip install -r requirements.txt
 
 **USAGE LINUX/MAC:**
@@ -104,7 +110,9 @@ python3 sniper_linux.py
 **USAGE LINUX/MAC (Venv Enviroment):**
 
 cd name-sniper
+
 source .lib_venv/bin/activate
+
 python3 sniper_linux.py
 
 **USAGE TERMUX:**
