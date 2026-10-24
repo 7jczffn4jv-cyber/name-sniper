@@ -4,9 +4,13 @@ A high-speed, infinite Discord username generator and checker. Built for Linux a
 ✔️ **INSTALLATION LINUX/MAC:**
 
 git clone https://github.com/yourusername/name-sniper.git
+
 cd name-sniper
+
 sudo apt-get update
+
 sudo chmod +x install.sh
+
 sudo bash install.sh
 
 
@@ -31,21 +35,34 @@ echo "[+] Installation complete. Run 'python3 sniper_linux.py' to start."
 If you encounter some errors in the python libraries installation use this method
 
 git clone https://github.com/yourusername/name-sniper.git
+
 sudo apt-get update
+
+
 cd name-sniper
+
 python3 -m venv .lib_venv
+
 sudo chmod +x install.sh
+
 sudo bash install.sh
+
 source .lib_venv/bin/activate
+
 pip3 install -r requirements.txt
+
+
 python3 sniper_linux.py
+
 
 ✔️ **INSTALLATION WINDOWS (1°WAY)**
 
 If you have git installed on your windows machine you can do the following commands:
 
 git clone https://github.com/yourusername/name-sniper.git
+
 cd name-sniper
+
 Install.cmd
 
 ✔️ **INSTALLATION WINDOWS (2° WAY)**
